@@ -30,7 +30,7 @@ _Steps necessary to run this app
 1. Get a free API Key at [https://www.worldweatheronline.com/](https://www.worldweatheronline.com/)
 2. Clone this repo
    ```sh
-   git clone
+   git clone https://github.com/Bhanus12345/assessment-on-etherium-and-weather-report.git
    ```
 3. Install necessary python packages
    
